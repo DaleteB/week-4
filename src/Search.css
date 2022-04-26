@@ -7,9 +7,10 @@
   .btn-button {
     
     display: inline-block;
+    justify-content: space-evenly;
     color: #000;
     background-color: #fff;
-    border: 1px transparent;
+    border: 1px ;
     border-color: #fff;
     border-radius: 30px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
@@ -23,5 +24,5 @@
   }
   
   button:hover {
-    color: #fff;
+    color: black;
   }

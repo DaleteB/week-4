@@ -3,3 +3,25 @@
   text-align: center;
 }
 
+@media (max-width: 500px){
+  .temperature{
+    position: relative;
+    left: -48px;
+    bottom: -40px;
+  }
+  
+  .list-description{
+    position: relative;
+    left: -33px;
+
+  }
+  .Forecast{
+    width: 50%;
+    position: relative;
+    left: -50px;
+  }
+  img{
+    display: none;
+  }
+}
+

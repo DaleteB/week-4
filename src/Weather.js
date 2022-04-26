@@ -4,6 +4,7 @@ import Header from "./Header";
 import Temperature from "./Temperature";
 import Units from "./Units";
 import Footer from "./Footer";
+import Forecast from "./Forecast";
 import "./Weather.css";
 import "./Search.css";
 import "./Header.css";
@@ -28,7 +29,10 @@ export default function Weather() {
                 <Units />
               </div>
             </div>
+           <hr /> 
+           <Forecast />
           </div>
+          
         </div>
         <Footer />
       </div>

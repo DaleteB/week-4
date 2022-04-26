@@ -1,0 +1,12 @@
+.Forecast.container{
+    position: relative;
+    left: -20px;
+    margin: 10px;
+  padding: 10px;
+  color: #000;
+}
+
+.img-list {
+    position: relative;
+    left: -20px;
+}

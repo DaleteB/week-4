@@ -10,7 +10,7 @@ export default function Temperature() {
         id="icon"
         class="float:left"
       />
-      <div class="float:left">
+      <div class="float:left temperature">
         <strong id="temp">11</strong>
         <span class="units">°C</span>
       </div>

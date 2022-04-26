@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div class="Header">
       <h1 id="city">Lisbon</h1>
-      <ul>
+      <ul class="list-description">
         <li id="date">Tuesday 18:36</li>
         <li class="descriptionNow" id="description">
           Sunny
