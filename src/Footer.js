@@ -4,7 +4,7 @@ import "./Footer";
 export default function Footer() {
   return (
     <div className="Footer">
-      <a href="https://github.com/DaleteB/Weather-app" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/DaleteB/week-4" target="_blank" rel="noopener noreferrer">
         Open-source code
       </a>{" "}
       by

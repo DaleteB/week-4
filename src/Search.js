@@ -7,7 +7,7 @@ export default function Search() {
       <div class="row">
         <input
           type="search"
-          class="form-control btn-bar"
+          class="form-control search-bar"
           id="city-input"
           placeholder="Type city"
           autocomplete="off"
