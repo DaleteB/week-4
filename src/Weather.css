@@ -1,0 +1,16 @@
+.weather-app-wrapper {
+    background: #8ed6ff;
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    border: transparent;
+    font-family: "Quicksand", sans-serif;
+  }
+  .overview {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: transparent;
+    border-radius: 10px;
+    background-color: #fff8f581;
+  }

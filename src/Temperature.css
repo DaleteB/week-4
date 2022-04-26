@@ -1,0 +1,22 @@
+.weather-temperature img {
+    margin-right: 250px;
+    height: 88px;
+    width: 88px;
+    position: relative;
+    top: 42px;
+  }
+  .weather-temperature strong {
+    color: rgb(33, 33, 33);
+    font-size: 64px;
+    line-height: 1;
+    font-weight: 400;
+    position: relative;
+    top: -36px;
+    left: 36px;
+  }
+  .weather-temperature .units {
+    position: relative;
+    top: -65px;
+    left: 35px;
+    font-size: 19px;
+  }

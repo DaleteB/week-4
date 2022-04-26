@@ -1,0 +1,10 @@
+.Footer {
+    display: block;
+    text-align: center;
+    margin: -52px auto;
+    padding: 0;
+  }
+  
+  .Footer a {
+    text-decoration: none;
+  }
